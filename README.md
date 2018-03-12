@@ -122,3 +122,6 @@ You can either download the ShellCheck program: https://github.com/koalaman/shel
 ## License
 
 The code is available under the [MIT License](/LICENSE).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE5MjIzMjQ0Ml19
+-->
